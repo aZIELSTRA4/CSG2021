@@ -1,2 +1,20 @@
-<link href='mijnopmaak.css rel='stylesheet'>
+h1 {
+    color:red;
+    font-family: Georgia;
+}
 
+.image {
+   width: 360px;
+}
+h2 {
+    color:aqua
+}
+h3{
+    color:blueviolet
+}
+h4{
+    color:darkolivegreen
+}
+h5{
+    color: purple
+}
