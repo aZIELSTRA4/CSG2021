@@ -13,19 +13,17 @@ h1 {
 h2 {
     color:aqua;
 }
-
 h3 {
    color:blueviolet;
 }
-
 h4 {
     color:darkolivegreen;
 }
-
 h5 {
     color: purple;
 }
- h6 {
+h6 {
      color:lime;
+     font-size: 2em;
 
  }
