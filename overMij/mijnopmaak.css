@@ -1,20 +1,31 @@
+body {
+    background-color: lightblue;
+}
 h1 {
     color:red;
     font-family: Georgia;
+    font-size: 7em;
 }
 
 .image {
    width: 360px;
 }
 h2 {
-    color:aqua
+    color:aqua;
 }
-h3{
-    color:blueviolet
+
+h3 {
+   color:blueviolet;
 }
-h4{
-    color:darkolivegreen
+
+h4 {
+    color:darkolivegreen;
 }
-h5{
-    color: purple
+
+h5 {
+    color: purple;
 }
+ h6 {
+     color:lime;
+
+ }
