@@ -1,12 +1,12 @@
 body {
-    background-color: lime;
+    background-color:aquamarine;
 
 }
 
 h1 {
     color:red;
     font-family: Georgia;
-    font-size: 7em;
+    font-size: 22px;
 }
 
 .image {
@@ -14,17 +14,21 @@ h1 {
 }
 h2 {
     color:aqua;
+    font-size: 22px;
 }
 h3 {
    color:blueviolet;
+   font-size: 22px;
 }
 h4 {
     color:darkolivegreen;
+    font-size: 22px;
 }
 h5 {
     color: purple;
+    font-size: 22px;
 }
 h6 {
-     color: yellow;
-     
+     color:blue;
+     font-size: 22px;
    }
